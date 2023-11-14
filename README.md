@@ -1,4 +1,4 @@
-- 👋 Hi, I’m SENAYIT
+- 👋 Hello, I’m SENAYIT
 - 👀 I’m interested in artificial intelligence.
 - 🌱 I’m a proactive and self-confident fresh graduate with a BSC in Electrical and Computer Engineering from Addis Ababa Science and Technology University.
 - 💞️ I am passionate about pursuing a career in professional services with a focus on electronics or computer hardware and software.
